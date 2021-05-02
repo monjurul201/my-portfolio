@@ -7,7 +7,7 @@ const Footer = () => {
       <h2>
         Dev :{" "}
         <a
-          href="https://github.com/ansarali41"
+          href="https://github.com/monjurul201"
           rel="noopener noreferrer"
           target="_blank"
         >
