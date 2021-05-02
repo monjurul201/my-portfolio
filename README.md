@@ -12,6 +12,5 @@
 - - custom css animation
 - - framer-motion
 
-- Surge
-- Github Actions
+
 # my-portfolio
