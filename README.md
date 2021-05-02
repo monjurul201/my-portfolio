@@ -1,13 +1,3 @@
-# 👨‍💻 Personal Portfolio
-
-### *Personal Portfolio built using ReactJs and Animation libraries, hope you like it. Tweak it and use it !!*
-:link: https://ansar-ali.netlify.app/
-
-
-
-## Images 
-<img src='https://i.ibb.co/GVbCpJ8/image.png' />
-
 
 ## Technologies used:
 
